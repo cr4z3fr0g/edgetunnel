@@ -3,4 +3,4 @@
 *-lock.*
 *.lock
 *.log
-dist
+nohup.out
