@@ -6,6 +6,7 @@
   "scripts": {
     "deploy": "wrangler publish",
     "dev-vless": "wrangler dev src/worker-vless.js"
+    "cf-page-vless": "wrangler dev src/worker-vless.js"
   },
   "author": "",
   "license": "ISC",
